@@ -1,6 +1,6 @@
 # Sistema_Distribbuido-Atividade_Pratica
 
-Os colaboradores deste projeto são Letícia Borges, Flávia Campos e Israel Costa.
+Os autores deste projeto são Letícia Borges, Flávia Campos e Israel Costa.
  
 ## Ativiade 1 - Calculadora Remota em UDP está na diretório "Atividade1".
  
