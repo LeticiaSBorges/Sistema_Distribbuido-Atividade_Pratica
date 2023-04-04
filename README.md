@@ -11,3 +11,5 @@ ii. O servidor está no arquivo Server.java;
 iii. O cliente está funcionando no arquivo Principal.java;
 
 iv. Deve ser ininiado primeiro o Server.java e depois o Principal.java.
+
+## Ativiade 3 - Chat Room TCP está na diretório "Atividade3".
