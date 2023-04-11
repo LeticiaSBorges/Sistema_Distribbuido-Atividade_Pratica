@@ -14,4 +14,6 @@ iii. O cliente está funcionando no arquivo Principal.java;
 
 iv. Deve ser ininiado primeiro o Server.java e depois o Principal.java.
 
+v. o projeto completo esta no arquivo Calculadora_UDP.zip, no qual deve ser descompactado e executado.
+
 ## Ativiade 3 - Chat Room TCP está na diretório "Atividade3".
