@@ -12,10 +12,10 @@ ii. O servidor está no arquivo Server.java;
 
 iii. O cliente está funcionando no arquivo Principal.java;
 
-iv. Deve ser ininiado primeiro o Server.java e depois o Principal.java.
+iv. Deve ser ininiado primeiro o Server.java e depois o Principal.java;
 
-v. o projeto completo (alculadora Remota em UDP) está na pasta Atividade1 no arquivo Calculadora_UDP.zip, no qual deve ser descompactado e executado.
+v. o projeto completo (alculadora Remota em UDP) está na pasta Atividade1 no arquivo Calculadora_UDP.zip, no qual deve ser descompactado e executado;
 
-vi. quando for executado o arquivo Principal.java, deve se coloca as operações com espacamento, por exemplo, 2 + 2,  ou 3 * 2, ou 4 - 2, ou 5 / 2.
+vi. quando for executado o arquivo Principal.java, deve se coloca as operações com espacamento, por exemplo, 2 + 2,  ou 3 * 2, ou 4 - 2, ou 5 / 2, sendo respeitada as operçãos básimcas de matemática ('+' , '*' , '/' e '-').
 
 ## Ativiade 3 - Chat Room TCP está na diretório "Atividade3".
