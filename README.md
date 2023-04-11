@@ -18,4 +18,7 @@ v. o projeto completo (calculadora Remota em UDP) está na pasta Atividade1 no a
 
 vi. quando for executado o arquivo Principal.java, deve se coloca as operações com espacamento, por exemplo, 2 + 2,  ou 3 * 2, ou 4 - 2, ou 5 / 2, sendo respeitada as operçãos básimcas de matemática ('+' , '*' , '/' e '-').
 
+## Ativiade 2 - Classificados de veículos "Atividade2".
+
+
 ## Ativiade 3 - Chat Room TCP está na diretório "Atividade3".
